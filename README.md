@@ -8,4 +8,4 @@ The text is first preprocessed and transformed as a vector. Then, the transforme
 
 Deployed on - **Heroku** : https://fake-news-detector-flask.herokuapp.com/
 
-<img src="https://github.com/GitTeaching/Fake-News-Detector-App/blob/master/static/images/screenshot.png" width=800/>
+<img src ="C:\Users\user\Downloads\Fake-News-Detector-App-master\static\images\screenshot.png" width =800/>
